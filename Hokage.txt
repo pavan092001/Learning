@@ -1,1 +1,5 @@
---1.Hashirama senju --
+1.Hashirama senju
+2.Tobirama senju
+3.Hiruzen sarutobi
+4.Minato Namikaze
+
